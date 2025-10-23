@@ -7,7 +7,7 @@ public class Room {
     private boolean dirty;
 
 
-    // === Constructor ===
+    // Constructor
     // Used to create a Room and set its starting values
     public Room(int numbersOfBeds, double price, boolean occupied, boolean dirty) {
         this.numbersOfBeds = numbersOfBeds;
