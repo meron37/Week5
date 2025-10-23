@@ -3,7 +3,7 @@ package com.pluralsight.HotelOperations;
 public class HotelOperations {
     public static void main(String[] args) {
 
-        // Test Room
+        // == Test Room ==
         Room room101 = new Room(2, 129.99, false, false);
         System.out.println("Room 101 has " + room101.getNumberOfBeds() + " beds.");
         System.out.println("Room 101 available? " + room101.isAvailable()); // true
