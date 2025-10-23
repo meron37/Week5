@@ -6,7 +6,6 @@ package com.pluralsight.HotelOperations;
  *  - Their ID, name, and department
  *  - Their hourly pay rate
  *  - The number of hours they worked
- *
  * Derived getters calculate:
  *  - Regular hours (up to 40)
  *  - Overtime hours (above 40)
