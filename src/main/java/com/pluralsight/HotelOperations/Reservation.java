@@ -8,7 +8,7 @@ package com.pluralsight.HotelOperations;
  * If the stay is over a weekend, the price increases by 10%.
  */
 public class Reservation {
-    // === Instance variables (backing variables) ===
+    // Instance variables
     private String roomType;
     private double price;
     private int numberOfNights;
@@ -36,7 +36,7 @@ public class Reservation {
         }
     }
 
-    // === Getters and Setters ===
+    //  Getters and Setters
 
     public String getRoomType() {
         return roomType;
