@@ -80,10 +80,6 @@ public class HotelOperations {
         System.out.println("Suites available: " + h2.getAvailableSuites());
         System.out.println("Basic rooms available: " + h2.getAvailableRooms());
 
-//        // Optional: show summary
-//        System.out.println();
-//        System.out.println(h1);
-//        System.out.println(h2);
     }
 }
 
